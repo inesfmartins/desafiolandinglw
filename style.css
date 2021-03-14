@@ -1,0 +1,46 @@
+body {
+	text-align: center;
+	font-family: arial;
+	background-image: url(Imagens/efe-kurnaz-RnCPiXixooY-unsplash.jpg);
+	background-size: cover;
+	color: white;
+}
+h1 {
+	font-size: 70px;
+	padding-top: 75px;
+	text-shadow: 3px 3px 5px black;
+	margin-bottom: 15px;
+}
+p{
+	font-size: 25px;
+	text-shadow: 1px 1px 3px black;
+}
+.button {
+	text-decoration: none;
+	background-color: rgb(255 0 84);
+	color: white;
+	font-size: 20px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+	margin-top: 50px;
+}
+.button: hover {
+	background-color: rgba(255 0 84 0.5);
+}
+.list {
+	list-style: none;
+	padding-left: 0;
+	margin-top: 150px;
+}
+.list li {
+	display: inline;
+}
+.list a {
+	color: white;
+	font-size: 25px;
+}
+.credit {
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
